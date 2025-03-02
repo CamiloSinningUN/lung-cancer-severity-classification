@@ -6,6 +6,8 @@ This repository contains code and documentation for a deep learning project focu
 
 The dataset consists of 512x512px grayscale CT scan slices from 2363 patients. For each CT scan, the slice with the largest nodule area was selected. In addition to each slice, a zoomed version of the nodule was also provided. The two types of images are in separate `.nrrd` files, and malignancy classes are in `dataset_lung.xlsx`.
 
+![dataset](https://github.com/user-attachments/assets/d0b36e35-a4b1-4296-8c04-fcd98d93f6a5)
+
 ## Models
 
 We explored a variety of deep learning models, including:
